@@ -17,7 +17,7 @@ This course is designed for beginner/intermediate level.
  - Check out our website https://bioinformatics.niaid.nih.gov/services for more consultation area BCBB provides
  
 ### Resources  
-- [Lecture Notes, Programming Script and Prism manual](https://nih-my.sharepoint.com/:f:/g/personal/guj3_nih_gov/EklJh9Ye9GdPuecThEwRlLEB0vHb-JJatws1gErL1b2ofw?e=igtVed) 
+- [Lecture Notes, Programming Script and Prism manual](https://nih-my.sharepoint.com/personal/guj3_nih_gov/Documents/Categorical%20material%20-%20May%202019%20(Upload)/Prism%20manual.pdf) 
 - [How to use R, SAS, Stata, and SPSS statistical software for categorical data analysis](http://users.stat.ufl.edu/~aa/cda/cda.html)
   
 ### Tool
