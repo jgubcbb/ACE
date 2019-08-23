@@ -1,17 +1,17 @@
-# Introduction to Categorical Data Analysis
+# R103: Categorical Data Analysis
 
-Welcome to the Training Session provided by Bioinformatics and Computational Biosciences Branch (BCBB).
+Welcome to the workshop provided by Bioinformatics and Computational Biosciences Branch (BCBB). Click [here](https://nih.sharepoint.com/sites/GRP-NIAID-BioInformatics/Shared%20Documents/RML%20Visit%20September%202019/RML%20Workshop%20Poster.pdf?csf=1&e=NuvvGf&cid=cc291e48-c34a-4396-8a08-153732514e4b) to see other workshop topics provided by our team.
 
-Categorical data is the data type consisting of categorical variables or of data converted into categories or groups. Categorical data analysis is vital and useful statistical analysis in clinical research since categorical data occupies a large portion of the data we collect and use. This course will start from basis introducing different types of categorical data and characteristics, contingency table, probability distribution, to learn how to calculate and interpret some useful statistic such as odds ratio and relative risk. The last section is about different types of statistical testing for categorical data by cases. Each example will include a hands-on part of using Rstudio to perform the analysis. 
+### Introduction
+Categorical data is the data type consisting of categorical variables or of data converted into categories or groups. Categorical data analysis is vital and useful statistical analysis in clinical research since categorical data occupies a large portion of the data we collect and use. Topics include: basis introducing different types of categorical data and characteristics, contingency table, probability distribution, to learn how to calculate and interpret some useful statistic such as odds ratio and relative risk. The last section is about different types of statistical testing for categorical data by cases. Each example will include a hands-on part of using Rstudio to perform the analysis. 
 
 This course is designed for beginner/intermediate level. 
 
 
-### Intro
-Topics including analyzing contingency table, statistic for measuring strength of association and statistical testing of independence will be introduced.
+### Workshop Information
 
- - Location: Building 40, Room 1207
- - Time: May 20, 2019 @ 9am-12pm
+ - Location: Building ???, Room A322
+ - Time: Sept 12, 2019 @ 1-4pm
  - Instructor: Jingwen Gu (jingwen.gu@nih.gov)
  - Send email to bioinformatics@niaid.nih.gov for science support
  - Check out our website https://bioinformatics.niaid.nih.gov/services for more consultation area BCBB provides
@@ -24,11 +24,11 @@ Topics including analyzing contingency table, statistic for measuring strength o
 - RStudio
 
 ### Class Survey
-- [Link](https://www.surveymonkey.com/r/HY6SLSC)
+- [Link???](https://www.surveymonkey.com/r/HY6SLSC)
 
 ### References
 - Argesti. A (2013) Categorical data analysis (3rd Edition)
 - Sullivan, L. M. (2011) Essentials of biostatistics in public health
 - Knuiman, M.W. & Speed, T.P. (1988) Incorporating Prior Information into the Analysis of Contingency Tables. Biometrics, 44 (4), 1061–1071
 
-Helix download link: ftp://helix.nih.gov/pub/Categorical_material/Categorical%20material%20-%20May%202019%20%28Upload%29.zip
+Helix download link???: ftp://helix.nih.gov/pub/Categorical_material/Categorical%20material%20-%20May%202019%20%28Upload%29.zip
